@@ -47,39 +47,9 @@ To run this code, you need Python 3.x and the following packages installed:
 
 ```bash
 pip install pandas numpy matplotlib networkx python-louvain
+```
 
-## Analysis Performed
+## Key Insights
 
-### 1. Graph Construction
-- **Nodes:** Students
-- **Edges:** Friend connections
-
-### 2. Centrality Measures
-- **Degree Centrality:** Highlights students with the most connections.
-- **Closeness Centrality:** Identifies students closest to everyone in the network.
-- **Eigenvector Centrality:** Detects influential students connected to other well-connected students.
-
-### 3. Visualization
-- Bar plots for each centrality measure.
-- Degree distribution histogram to understand network connectivity.
-
-### 4. Community Detection
-- Louvain method for identifying communities.
-- Modularity score to evaluate the strength of community structure.
-
----
-
-## Results
-- Nodes with the **highest centrality measures** are highlighted in the outputs.
-- Graph visualizations provide insights into influential students and network structure.
-- **Modularity Score** indicates a strong community structure with minor overlaps.
-
----
-
-## Insights & Discussion
-
-**Q13. Can we predict friendships based on common connections?**  
-- **Answer:** Yes, students who share many common friends are more likely to form new friendships. This aligns with social network theory, where mutual connections increase the likelihood of interaction.
-
-**Q14. What role do isolated students play, and should they be integrated more?**  
-- **Answer:** Isolated students have limited influence in the network and may miss out on opportunities for collaboration and social support. Integrating them into existing communities can enhance their experience and strengthen the overall network cohesion.
+- Students with many shared friends are more likely to form new friendships, indicating common connections can help predict friendships.
+- Isolated students have limited influence in the network; integrating them into communities can improve social cohesion and collaboration.
