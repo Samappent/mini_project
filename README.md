@@ -11,7 +11,7 @@ This repository contains Python code for performing **social network analysis** 
 - [Analysis Performed](#analysis-performed)
 - [Results](#results)
 - [Insights & Discussion](#insights--discussion)
-- [License](#license)
+
 
 ---
 
