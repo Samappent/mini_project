@@ -1,0 +1,57 @@
+First_Name	Country	Background	Friend1	Friend2	Friend3
+Bella	Burundi	Statistics	DicksonJ	Cubaka	Carine
+Bright	Ghana	Mathematics Education 	Richard	DicksonA	Isaac
+DicksonA	Ghana	Mathematics 	Bright 	Richard	Isaac
+Richard	Ghana	Statistics	Bright	DicksonA	Isaac
+SamuelA	Ghana	Physics 	Ernestina 	Zanitar	Nondi
+Leticia	Uganda 	Mathematics 	Deniz	Carine	Augustina 
+Steve	Kenya	Mathematics	Godfrey	Edwin	Prosper
+Boldwin	Zambia 	Mathematics 	Sarah 	Cubaka	Edwin
+Sarah	Madagascar	Statistics	Boldwin	Cubaka	Jean-Pierre
+Moshood	Nigeria	Mathematics	Priscilla	Augustina	SamuelA
+Nondi	Kenya	Mathematics	Shomar	Eric	DicksonJ
+Bashira	Ghana 	Statistics 	Ranita	Hiwot 	SamuelM
+Augustina	Ghana	Mathematics	Priscilla	Cubaka	Moshood
+Tunde	Nigeria 	Statistics 	Hiwot	Malik 	SamuelM
+DicksonJ	Kenya	Mathematics	Bella	Shomar	Cubaka
+Edwin	Zambia	Mathematics and Statistics 	Steve	Ellen	Charles
+Funny 	Zimbabwe 	Statistics 	Ellen	Prosper 	Bright 
+Abdelrazig 	Sudan	Mathematics 	Kebba	Esmat	Bashir
+Ellen	Malawi	Mathematics and statistics 	Edwin	Funny	Eric
+Isaac	Ghana	Mathematics	Richard	DicksonA	Bright
+Cubaka	DRC	Mathematics	Boldwin	Sarah	Bella
+Benjamin 	Ghana	Mathematics 	Andrew	Class	DanielO
+Felix 	Ghana 	Actuarial Science 	Terkwor 	Ranita	David
+Schola	Ghana	Actuarial science	Class	Bashira	Lamine
+Zanitar	Ghana	Mathematics	Nondi	DanielW	SamuelA
+Priscilla	Ghana	Mathematics	Augustina	Moshood	Deniz
+Terkwor	Ghana	Statistics	Felix	David	Ranita
+Eric	Ghana 	Statistics	Nondi	Funny	Ellen
+Shomar 	Tanzania 	Mathematics	Nondi 	Ernestina	DicksonJ
+Prosper	Burundi 	Mathematics 	Steve	Godfrey	Edwin 
+Ernestina	Ghana	Mathematics	Shomar	Nondi	SamuelA
+DanielW	Ghana 	Mathematics 	SamuelM	Dorcas	Zanitar
+Godfrey	Kenya	Physics	Steve	Prosper	Sarah
+Dorcas	Nigeria	Mathematics	Benjamin	SamuelA	Schola
+Class	Ghana	Mathematics	Andrew	Benjamin	DanielO
+Hiwot	Ethiopia	Mathematics	Tunde 	Moshood	SamuelM
+Fidelis	Ghana	Mathematics and Statistics	Lamine	Fostine	Deniz
+David 	Ghana	Mathematics	Dominic	Mary	Felix
+Mutyaba	Uganda 	Physics and Mathematics 	Fostine 	Eric	Richard
+DanielO	Ghana	Mathematics	Tunde	Hiwot	Benjamin
+Fostine 	Uganda	Mathematics	Mutyaba 	Cubaka	Augustina
+Ranita	Ghana	Statistics 	David	Bashira	Deniz
+Deniz	Uganda	Mathematics 	Leticia 	Priscilla 	Augustina
+Lamine	Burkina Faso	Applied Mathematics in Computer Science and Econometric	Class	Schola	Bashira
+Jean-Pierre 	Madagascar 	Mathematics 	Steve	Sarah	Esmat
+Bashir	Uganda	Mathematics	Fostine	Mutyaba	Leticia
+SamuelM	Ghana	Mathematics	DanielO	Charles	Isaac
+Dominic	Ghana	Mathematics and Statistics 	Mary	David	Felix
+Kebba 	Gambia 	Mathematics 	Bashira	Steve	Fostine
+Carine	Cameroon	Physics	Leticia 	Bella	Cubaka
+Mary	Ghana	Mathematics	Dominic	David	DicksonA
+Malik	Nigeria	Mathematics	Tunde	Moshood	Shomar
+Andrew	Ghana	Mathematics	Benjamin	Class	DanielO
+Clinton	Ghana	Mathematics	Isaac	DicksonA	Richard
+Esmat	Sudan	Mathematics	Abdelrazig	Bashir	Bashira
+Charles	Ghana	Mathematics	Fidelis	Bashir	Moshood
